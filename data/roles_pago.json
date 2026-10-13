@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "empleado_id": 1,
+    "departamento_id": 1,
+    "mes": "Enero 2027",
+    "sueldo_base": 560.0,
+    "horas_extras": 0.0,
+    "bono": 0.0,
+    "fecha": "2026-10-12"
+  }
+]
